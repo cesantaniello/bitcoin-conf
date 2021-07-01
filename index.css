@@ -1,3 +1,12 @@
+/*Footer*/
+#footer {
+    background: #212529;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
+}
 /*Header*/
 #header img{
     width: 80px;
@@ -11,15 +20,25 @@
 #main .carousel-inner img{
     max-height: 70vh;
     object-fit: cover;
-    filter: grayscale(50%);
+    filter: grayscale(70%);
 }
 
-/*Footer*/
-#footer {
-    background: #212529;
+#carousel {
+    position: relative;
 }
 
-#footer a{
+#carousel .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    text-decoration: none;
+    z-index: 1;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row{
+    height: 100%;
 }
