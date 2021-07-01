@@ -42,3 +42,16 @@
 #carousel .overlay .row{
     height: 100%;
 }
+
+.btn-buy-tickets{
+    background-color:rgb(248, 155, 43);
+}
+
+.btn-buy-tickets:hover{
+    background-color: rgba(248, 155, 43, 0.5);
+    color: white;
+}
+
+#main-text{
+    font-size: 1.5rem;
+}
