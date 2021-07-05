@@ -2,4 +2,4 @@
 
 An example what do you do with Bootstrap 5
 
-![](https://raw.githubusercontent.com/cesantaniello/bitcoin-conf/master/images/Landing-page_preview.png?token=AKC3Z4BU4A4SVKOZHPJIBY3A5QC2G)
+![](https://raw.githubusercontent.com/cesantaniello/bitcoin-conf/master/images/Landing-page_preview.jpg?token=AKC3Z4FLXK5HB4QHZK46DQTA5QE4Y)
